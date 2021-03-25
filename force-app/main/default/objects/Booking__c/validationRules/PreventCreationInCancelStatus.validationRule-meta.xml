@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>PreventCreationInCancelStatus</fullName>
+    <active>true</active>
+    <errorConditionFormula>AND(ISPICKVAL(Booking_Status__c,&quot;Canceled&quot;),ISNEW())</errorConditionFormula>
+    <errorMessage>Bookings cannot be created in Cancel status.</errorMessage>
+</ValidationRule>

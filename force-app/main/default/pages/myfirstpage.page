@@ -1,0 +1,6 @@
+<apex:page >
+  <!-- Begin Default Content REMOVE THIS -->
+  <h1>Congratulations..Jaya is creating new VF page</h1><br></br>
+  This is your new Page: myfirstpage
+  <!-- End Default Content REMOVE THIS -->
+</apex:page>

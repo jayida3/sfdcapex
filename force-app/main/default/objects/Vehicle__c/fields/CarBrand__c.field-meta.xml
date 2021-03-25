@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CarBrand__c</fullName>
+    <externalId>false</externalId>
+    <label>Car Brand</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Maruti Suziki</fullName>
+                <default>false</default>
+                <label>Maruti Suziki</label>
+            </value>
+            <value>
+                <fullName>Toyota</fullName>
+                <default>false</default>
+                <label>Toyota</label>
+            </value>
+            <value>
+                <fullName>Mahindra</fullName>
+                <default>false</default>
+                <label>Mahindra</label>
+            </value>
+            <value>
+                <fullName>Audi</fullName>
+                <default>false</default>
+                <label>Audi</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>NonPeakHoursFare__c</fullName>
+    <externalId>false</externalId>
+    <inlineHelpText>Non Peak Hrs fare per Km: From 10 AM to 5 PM and From 10 PM to 4 AM</inlineHelpText>
+    <label>Non Peak Hours  Fare</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>2</scale>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Currency</type>
+</CustomField>

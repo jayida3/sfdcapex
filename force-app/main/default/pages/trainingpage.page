@@ -1,0 +1,6 @@
+<apex:page >
+  <!-- Begin Default Content REMOVE THIS -->
+  <h1>Congratulations..this is my first page</h1><br/>
+  This is your new Page: trainingpage
+  <!-- End Default Content REMOVE THIS -->
+</apex:page>
