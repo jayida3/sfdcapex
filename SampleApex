@@ -3,7 +3,7 @@ public static void applyDiscount(Car__c[] Cars) {
 for(Car__c c :Cars){
 c.Price__c *= 0.9;
 System.debug("Car price is..."+c)
-Ssytem.debug("editing from 2nd branch..")
+System.debug("editing from 2nd branch..")
 }
 }
 }
